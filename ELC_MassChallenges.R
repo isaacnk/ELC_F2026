@@ -8,7 +8,7 @@ library(samplingbook)
 
 
 #Challenge sizes
-challenge_sizes <- c(10, 25, 50, 100, 500, 1000, 5000, 1000)
+challenge_sizes <- c(10, 25, 50, 100, 500, 1000, 5000, 10000)
 
 #Sample sizes
 sample_sizes <- c(10, 25, 50, 50, 50, 100, 500, 1000)
